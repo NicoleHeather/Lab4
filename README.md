@@ -14,14 +14,14 @@ Running the Mutation test:
 3. Right click on JFreeChart_Lab4 -> Run As -> PIT Mutation Test, and wair for report to finish.
 
 Selenium Tests Note:
-  The ideal order for running the tests is:
-    1. Invalid account name
-    2. Sign in (Note: the Ebay CAPTCHA might interfere with the successful execution of this test, leading to necessary manual login and logout before running the test)
-    3. Add to cart 
-    4. Remove from cart
-    5. Add to watchlist (Note: must be signed in)
-    6. Save seller (Note: must be signed in)
-    7. Normal search 
-    8. Advanced search
+The ideal order for running the tests is:
+  1. Invalid account name
+  2. Sign in (Note: the Ebay CAPTCHA might interfere with the successful execution of this test, leading to necessary manual login and logout before running the test)
+  3. Add to cart
+  4. Remove from cart
+  5. Add to watchlist (Note: must be signed in)
+  6. Save seller (Note: must be signed in)
+  7. Normal search
+  8. Advanced search
 
 
